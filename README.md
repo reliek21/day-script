@@ -7,7 +7,6 @@ A small python script that executes the most frequent tasks such as: Study Engli
 ## Features
 
 - [x] Menu
-- [x] Functions for add URLs
 - [x] Colors on console
 
   
