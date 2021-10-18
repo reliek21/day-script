@@ -15,7 +15,7 @@ def sendNotification(message, text=""):
 
 # Init application function
 def initApps(appname, link=""):
-    os.system(Fore.WHITE + f'{appname} {link}')
+    os.system(f'{appname} {link}')
 
 
 # Menu
