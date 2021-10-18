@@ -8,7 +8,7 @@ A small python script that executes the most frequent tasks such as: Study Engli
 
 - [x] Menu
 - [x] Functions for add URLs
-- [ ] Colors on console
+- [x] Colors on console
 
   
 ## Run Locally
@@ -23,6 +23,12 @@ Go to the project directory
 
 ```bash
   cd daily-script
+```
+
+Install requirements.txt
+
+```bash
+  pip3 install -r requirements.txt
 ```
 
 Run the project
