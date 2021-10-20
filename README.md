@@ -67,14 +67,13 @@ def initApps(appname, link=""):
 initApps("google-chrome", "https://www.duolingo.com/learn")
 ```
 
-  
-## Authors
 
-- [@reliek](https://www.github.com/reliek)
-
-  
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-  
+
+
+## Authors
+
+- [@reliek](https://www.github.com/reliek)
