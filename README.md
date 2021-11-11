@@ -1,5 +1,5 @@
 
-# Daily Script
+# Day Script
 
 A small python script that executes the most frequent tasks such as: Study English, Learn a programming language and more.
 
@@ -15,13 +15,13 @@ A small python script that executes the most frequent tasks such as: Study Engli
 Clone the project
 
 ```bash
-  git clone git@github.com:reliek21/daily-script.git
+  git clone git@github.com:reliek21/day-script.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd daily-script
+  cd day-script
 ```
 
 Install requirements.txt
@@ -33,7 +33,7 @@ Install requirements.txt
 Run the project
 
 ```bash
-  python3 daily-script
+  python3 script.py
 ```
 
   
@@ -76,4 +76,4 @@ initApps("google-chrome", "https://www.duolingo.com/learn")
 
 ## Authors
 
-- [@reliek](https://www.github.com/reliek)
+[@reliek](https://www.github.com/reliek)
