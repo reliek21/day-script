@@ -68,12 +68,6 @@ initApps("google-chrome", "https://www.duolingo.com/learn")
 ```
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-
 ## Authors
 
 [@reliek](https://www.github.com/reliek)
