@@ -54,7 +54,7 @@ def sendNotification(message, text=""):
 sendNotification("All applications started", "Have a nice day =)")
 ```
 
-Appication function
+application function
 
 ```python
 import os
